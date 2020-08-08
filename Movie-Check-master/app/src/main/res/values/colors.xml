@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#CC990000</color>
+    <color name="primary_dark">#990000</color>
+
+    <color name="primary_dark_alpha_red">#ff6666</color>
+    <color name="primary_1">#212121</color>
+    <color name="primary_2">#000000</color>
+    <color name="primary_dark_alpha">#ff6666</color>
+    <color name="primary_light">#ffb5b5</color>
+    <color name="primary_light_alpha">#ffcccc</color>
+    <color name="accent">#212121</color>
+    <color name="accent_alpha">#212121</color>
+    <color name="black_alpha">#CC212122</color>
+
+    <color name="white_alpha">#CCffffff</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="red">#f44336</color>
+    <color name="gray_dark">#212121</color>
+    <color name="black">#000000</color>
+    <color name="gray">#727272</color>
+    <color name="yellow">#ff9900</color>
+    <color name="yellow_alpha">#ffea61</color>
+    <color name="green_alpha">#c9decd</color>
+
+    <color name="primary_dup">#2196F3</color>
+    <color name="primary_dark_dup">#1976D2</color>
+    <color name="primary_dark_alpha_dup">#9a1976d2</color>
+    <color name="primary_light_dup">#BBDEFB</color>
+    <color name="primary_light_alpha_dup">#CCBBDEFB</color>
+    <color name="accent_dup">#00a992</color>
+    <color name="accent_alpha_dup">#CC00a992</color>
+
+    <color name="gray_light">#b4b4b4</color>
+
+</resources>
